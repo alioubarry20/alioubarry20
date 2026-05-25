@@ -5,9 +5,9 @@
 ## 🧑‍💻 À propos de moi
 
 - 🔭 Je travaille sur : [ActiveDirectory](https://github.com/alioubarry20/ActiveDirectory) — infrastructure AD pour PME fictive
-- 👯 Je cherche à collaborer sur des projets en cybersécurité offensive/défensive
+- 👯 Je cherche à collaborer sur des projets en developement logiciel, en Reseaux et en cybersécurité offensive/défensive
 - 🌱 J'apprends : Wazuh SIEM, Ethical Hacking, CCNA
-- 💬 Parle-moi de : TCP/IP, Active Directory, Kali Linux, Laravel, Python
+- 💬 Parle-moi de : TCP/IP, Active Directory, Kali Linux, Java, Python, EVE-NG
 - 📫 Contact : alioubarryprivate10@gmail.com
 - 💼 LinkedIn : [mamadou-aliou-barry-514099366](https://www.linkedin.com/in/mamadou-aliou-barry-514099366)
 
