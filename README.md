@@ -1,13 +1,19 @@
-# Salut, je suis Aliou Barry 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aliou%20Barry&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=R%C3%A9seaux%20%E2%80%A2%20Cybers%C3%A9curit%C3%A9%20%E2%80%A2%20Backend&descAlignY=55&descSize=18" />
+</p>
 
-> 🛡️ Étudiant en informatique à Dakar, Sénégal — passionné par les réseaux, la cybersécurité et le développement backend.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Salut,+je+suis+Aliou+Barry;🛡️+Étudiant+en+Cybersécurité;🌐+Passionné+Réseaux+%26+Systèmes;🔭+En+quête+du+CCNA+%26+CEH" />
+</p>
+
+---
 
 ## 🧑‍💻 À propos de moi
 
 - 🔭 Je travaille sur : [ActiveDirectory](https://github.com/alioubarry20/ActiveDirectory) — infrastructure AD pour PME fictive
-- 👯 Je cherche à collaborer sur des projets en developement logiciel, en Reseaux et en cybersécurité offensive/défensive
+- 👯 Je cherche à collaborer sur des projets en cybersécurité offensive/défensive
 - 🌱 J'apprends : Wazuh SIEM, Ethical Hacking, CCNA
-- 💬 Parle-moi de : TCP/IP, Active Directory, Kali Linux, Java, Python, EVE-NG
+- 💬 Parle-moi de : TCP/IP, Active Directory, Kali Linux, Laravel, Python
 - 📫 Contact : alioubarryprivate10@gmail.com
 - 💼 LinkedIn : [mamadou-aliou-barry-514099366](https://www.linkedin.com/in/mamadou-aliou-barry-514099366)
 
@@ -24,7 +30,7 @@
 | ✅ Network Support and Security | 2026 |
 | ✅ Network Technician Career Path | 2026 |
 
-> Badges vérifiés sur [Credly](https://www.credly.com/)
+> Badges vérifiés sur [Credly](https://www.credly.com/users/alioubarry20)
 
 ---
 
@@ -60,8 +66,22 @@
 
 ## 📊 Stats GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alioubarry20&show_icons=true&theme=dark&hide_border=true)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=alioubarry20&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alioubarry20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alioubarry20&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alioubarry20&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alioubarry20&label=Visiteurs&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+</p>
 
 ---
 
