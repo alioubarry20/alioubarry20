@@ -13,7 +13,7 @@
 - 🔭 Je travaille sur : [ActiveDirectory](https://github.com/alioubarry20/ActiveDirectory) — infrastructure AD pour PME fictive
 - 👯 Je cherche à collaborer sur des projets en réseau, en developement et en cybersécurité offensive/défensive
 - 🌱 J'apprends : Wazuh SIEM, Ethical Hacking, CCNA
-- 💬 Parle-moi de : TCP/IP, Active Directory, Kali Linux, Laravel, Python
+- 💬 Parle-moi de : TCP/IP, Active Directory, Kali Linux, java, Python
 - 📫 Contact : alioubarryprivate10@gmail.com
 - 💼 LinkedIn : [mamadou-aliou-barry-514099366](https://www.linkedin.com/in/mamadou-aliou-barry-514099366)
 
@@ -30,7 +30,7 @@
 | ✅ Network Support and Security | 2026 |
 | ✅ Network Technician Career Path | 2026 |
 
-> Badges vérifiés sur [Credly](https://www.credly.com/users/alioubarry20)
+> Badges vérifiés sur [Credly](https://www.credly.com/users/mamadou-aliou-barry.1f5cbe45/badges#credly)
 
 ---
 
