@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🔭 Je travaille sur : [ActiveDirectory](https://github.com/alioubarry20/ActiveDirectory) — infrastructure AD pour PME fictive
+- 🔭 Je travaille sur : [ActiveDirectory](https://github.com/alioubarry20/ACL-DMZ-CISCO) — les Listes de Contrôle d'Accès (ACL) étendues et la mise en place d'une Zone Démilitarisée (DMZ) pour un réseau d'entreprise hébergeant son propre site web.
 - 👯 Je cherche à collaborer sur des projets en réseau, en developement et en cybersécurité offensive/défensive
 - 🌱 J'apprends : Wazuh SIEM, Ethical Hacking, CCNA
 - 💬 Parle-moi de : TCP/IP, Active Directory, Kali Linux, java, Python
